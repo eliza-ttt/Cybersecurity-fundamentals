@@ -23,7 +23,7 @@ Objectives<br>
 
 ## Secure Authentication
 
-![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__3.png)<br>
+![img1](https://github.com/eliza-ttt/Cybersecurity-fundamentals/blob/main/image13.jpg?raw=true)<br>
 
 Objectives<br>
  
