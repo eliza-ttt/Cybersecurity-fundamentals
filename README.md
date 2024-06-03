@@ -35,7 +35,7 @@ Objectives<br>
 
 
 ## Cyber Attacks<br>
-![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__2.png?raw=true)<br>
+![img1](https://github.com/eliza-ttt/Cybersecurity-fundamentals/blob/main/image14.jpg?raw=true)<br>
 
 Objectives<br>
 
