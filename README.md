@@ -13,7 +13,7 @@ Objectives<br>
 
 ## Artificial intelligence in Cybersecurity
 
-![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__5.png?raw=true)<br>
+![img1](https://github.com/eliza-ttt/Cybersecurity-fundamentals/blob/main/image15.jpg?raw=true)<br>
 
 Objectives<br>
 
