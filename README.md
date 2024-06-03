@@ -2,7 +2,7 @@
 
 ## Introduction to Cybersecurity
 
-![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__1.png)<br>
+![img1](https://github.com/eliza-ttt/Cybersecurity-fundamentals/blob/main/image11.png?raw=true)<br>
 
 Objectives<br>
 
